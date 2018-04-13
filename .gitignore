@@ -1,0 +1,5 @@
+train_lmdb/
+test_lmdb/
+*.binaryproto
+*.caffemodel
+*.solverstate
