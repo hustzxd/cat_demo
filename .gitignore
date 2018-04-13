@@ -3,3 +3,4 @@ test_lmdb/
 *.binaryproto
 *.caffemodel
 *.solverstate
+*.log
